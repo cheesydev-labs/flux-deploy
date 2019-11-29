@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: kotlin
-          image: rafaelportela/kotlin-app:1.0.0
+          image: rafaelportela/kotlin-app:1.0.1
           ports:
             - containerPort: 8080
 ---
